@@ -1,0 +1,17 @@
+eigen source  https://bitbucket.org/eigen/eigen/get/429aa5254200.tar.gz
+eigen licence http://eigen.tuxfamily.org/ (MPL-2, with some GPL)
+
+nasm source http://www.nasm.us/pub/nasm/releasebuilds/2.12.02/nasm-2.12.02.tar.bz2
+nasm licence LICENCE in repo (2-clause BSD)
+
+fft source http://www.kurims.kyoto-u.ac.jp/~ooura/fft.tgz
+fft licence readme.txt in repo (bespoke licence)
+
+giflib source http://mirror.bazel.build/ufpr.dl.sourceforge.net/project/giflib/giflib-5.1.4.tar.gz
+giflib licence COPYING in repo (bespoke)
+
+sqlite source http://www.sqlite.org/2017/sqlite-amalgamation-3200000.zip
+sqlite licence *.h in repo (bespoke)
+
+pcre source https://osdn.net/projects/sfnet_pcre/downloads/pcre/8.39/pcre-8.39.tar.gz/
+pcre licence LICENCE in repo (bespoke)
